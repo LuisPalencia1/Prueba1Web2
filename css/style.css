@@ -1,0 +1,124 @@
+header {
+	font-family: Shojumaru;
+	position: absolute;
+	
+}
+
+#hero {
+	background-image: url("../img/bg-hero.png");
+	font-family: Shojumaru;
+	padding: 200px 50px 100px 50px;
+	background-size: cover;
+}
+
+#hero h1 {
+	color: #f49f28;
+	text-align: center;
+}
+
+#hero h3 {
+	font-family: "Nanum Pen Script", cursive;
+	color: #fff;
+	text-align: center;
+}
+
+#hero u {
+	color: #f49f28;
+}
+
+.butcent {
+	  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+}
+
+.button1 {
+  background-color: #f49f28;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+	font-weight: 600;
+}
+
+.button1:hover {
+	background-color: #db850b;
+	transition: all 0.3s ease-in-out;
+	opacity: 1;
+}
+
+#offers {
+	color: #29373c;
+	font-family: "Nanum Pen Script", cursive;
+	padding: 100px 50px 200px 50px;
+	 justify-content: center;
+ 	 align-items: center;
+	text-align: center;
+}
+
+#faq {
+	background-color: #f9faf2;
+	padding: 100px 50px 200px 50px;
+	font-family: "Nanum Pen Script", cursive;
+}
+
+#faq h4  {
+	padding-bottom: 20px;
+	
+}
+
+#faq p {
+	font-size: 20px;
+}
+
+.button2 {
+  background-color: #000;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+	font-weight: 600;
+}
+
+.button2:hover {
+	background-color: #2D2D2D;
+	transition: all 0.3s ease-in-out;
+	opacity: 1;
+}
+
+#services {
+	padding: 100px 50px 200px 50px;
+	 justify-content: center;
+ 	 align-items: center;
+	text-align: center;
+	color: #29373c;
+}
+
+#services h1 {
+	padding-top: 60px;
+	font-family: "Nanum Pen Script", cursive;
+	
+}
+
+footer {
+	padding: 100px 50px 50px 50px;
+	background-color: #f49f28;
+	justify-content: center;
+ 	 align-items: center;
+	text-align: center;
+	font-weight: 600;
+	color: #29373c;
+}
+
+footer img {
+	padding-bottom: 30px;
+}
